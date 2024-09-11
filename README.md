@@ -1,1 +1,3 @@
-# NonGraded-Activity-01
+-This is NonGraded Activity on Modules 2.0 & 3.0 
+-The topics covered in this activity are Basic HTML and Tables 
+-https://github.com/IsaiahCTubal/NonGraded-Activity-01
